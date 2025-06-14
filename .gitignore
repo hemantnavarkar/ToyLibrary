@@ -6,3 +6,5 @@
 /ToyLibrarySolution/toylibrarysolution.client/obj/Debug
 /.vs
 /ToyLibrarySolution/.vs
+/ToyLibrarySolution/ToyLibrarySolution.Server/bin/Debug/net8.0
+/ToyLibrarySolution/toylibrarysolution.client/package-lock.json
