@@ -1,0 +1,6 @@
+@ToyLibrarySolution.Server_HostAddress = http://localhost:5266
+
+GET {{ToyLibrarySolution.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
